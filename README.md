@@ -75,7 +75,7 @@ Copyguard.disable();
 
 ## 🌐 Live Demo
 
-View a demo at: [https://coreyadam8.github.io/copyguard-js](https://coreyadam8.github.io/copyguard-js)
+View a demo at: [https://coreyadam8.github.io/copyguard](https://coreyadam8.github.io/copyguard)
 
 ---
 
