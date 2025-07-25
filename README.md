@@ -12,7 +12,6 @@
 * 🖱️ Disable right-click (context menu)
 * 🧠 Optional `onViolation` callback for custom behavior/logging
 * 🪶 Zero dependencies
-* 🧩 UMD and ES module compatible
 
 ---
 
