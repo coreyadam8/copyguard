@@ -88,4 +88,4 @@ MIT License © [Corey Adam](https://github.com/coreyadam8)
 ## 🔗 Links
 
 * 📦 [npm: copyguard-js](https://www.npmjs.com/package/copyguard-js)
-* 🧑‍💻 [GitHub Repository](https://github.com/coreyadam8/copyguard-js)
+* 🧑‍💻 [GitHub Repository](https://github.com/coreyadam8/copyguard)
